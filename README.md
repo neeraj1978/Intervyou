@@ -98,9 +98,6 @@ Our state-of-the-art proctoring system ensures integrity and provides deep insig
     ```
     This command concurrently starts both the backend (port 5001) and frontend (port 5173).
 
-2.  **Access the App**:
-    -   Frontend: [http://localhost:5173](http://localhost:5173)
-    -   Backend: [http://localhost:5001](http://localhost:5001)
 
 ## 🤝 Contributing
 
