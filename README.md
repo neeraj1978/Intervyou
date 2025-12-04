@@ -38,7 +38,17 @@ Our state-of-the-art proctoring system ensures integrity and provides deep insig
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-*(Note: Admin Dashboard and Emotion Report screenshots can be added here)*
+### Admin Dashboard
+**Documents Management**
+![Admin Documents](screenshots/admin_dashboard_documents.png)
+
+**Bookings Management**
+![Admin Bookings](screenshots/admin_dashboard_bookings.png)
+
+**Test Results**
+![Admin Results](screenshots/admin_dashboard_results.png)
+
+*(Note: Emotion Report screenshot placeholder)*
 
 ## 🛠️ Tech Stack
 
